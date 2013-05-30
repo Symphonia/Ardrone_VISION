@@ -1,0 +1,2 @@
+1.3      0.02       0.001        1.0          0.02           0.001         1.3            0.02         0.001
+Kp_x   |   Ki_x   |   Kd_x   |   Kp_zrot   |   Ki_zrot   |   Kd_zrot   |   Kp_zlin   |   Ki_zlin   |   Kd_zlin
